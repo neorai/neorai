@@ -1,5 +1,3 @@
-# 💫 About Me:
-With a 7-year track record as a systems administrator, I possess an innate ability to learn quickly and tackle challenges. My insatiable curiosity drives me to stay up-to-date with the latest technologies and constantly seek new knowledge.
 
 
 # 💻 Tech Stack:
